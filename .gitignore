@@ -1,0 +1,6 @@
+*.pyc
+*.ipynb_checkpoints
+__pycache__
+.vscode/
+experiments/
+*.zip
